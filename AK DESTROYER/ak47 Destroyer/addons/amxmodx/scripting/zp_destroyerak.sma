@@ -269,3 +269,4 @@ stock fm_find_ent_by_owner(index, const classname[], owner, jghgtype = 0) {
 
 	return ent;
 }
+// fix
